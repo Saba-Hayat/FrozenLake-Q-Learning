@@ -1,0 +1,7 @@
+{
+  "environment": "FrozenLake-v1 (4x4, non-slippery)",
+  "evaluation_episodes": 1000,
+  "successful_episodes": 1000,
+  "success_rate": 1.0,
+  "average_steps": 6.0
+}

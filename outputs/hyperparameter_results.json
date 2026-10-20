@@ -1,0 +1,17 @@
+{
+  "Low LR (0.05)": {
+    "success_rate": 1.0,
+    "average_steps": 6.0,
+    "episodes": 300
+  },
+  "Default LR (0.10)": {
+    "success_rate": 1.0,
+    "average_steps": 6.0,
+    "episodes": 300
+  },
+  "High LR (0.30)": {
+    "success_rate": 1.0,
+    "average_steps": 6.0,
+    "episodes": 300
+  }
+}
